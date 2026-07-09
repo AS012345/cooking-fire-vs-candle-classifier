@@ -18,7 +18,7 @@ The model was trained using custom image datasets for each class and can predict
 
 * Google Teachable Machine
 
-
+![Screenshot](لقطة%20شاشة%202026-07-09%20180832.png)
   
 ## Files
 
