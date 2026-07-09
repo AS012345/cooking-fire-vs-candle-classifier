@@ -20,6 +20,15 @@ The model was trained using custom image datasets for each class and can predict
 * TensorFlow.js
 * Image Classification
 
+  
+## Files
+
+- `keras_model.h5` - Trained model file.
+- `labels.txt` - Class labels used by the model.
+- `Untitled5.ipynb` - Google Colab notebook for testing the model.
+- `images (7).jpg` - Example image used for testing.
+
+  
 ## Project Goal
 
 The goal of this project is to demonstrate image classification using machine learning and distinguish between different types of flames.
