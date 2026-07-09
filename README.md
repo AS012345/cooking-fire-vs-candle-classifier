@@ -24,11 +24,7 @@ The model was trained using custom image datasets for each class and can predict
 
 The goal of this project is to demonstrate image classification using machine learning and distinguish between different types of flames.
 
-## Files
 
-* `model.json` - Model architecture
-* `metadata.json` - Class information and labels
-* `weights.bin` - Trained model weights
 
 ## Training Platform
 
