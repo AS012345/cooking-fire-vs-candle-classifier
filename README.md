@@ -17,7 +17,7 @@ The model was trained using custom image datasets for each class and can predict
 ## Technologies Used
 
 * Google Teachable Machine
-![image](لقطة شاشة 2026-07-09 180832.png)
+![Teachable Machine](لقطة شاشة 2026-07-09 180832.png)
   
 ## Files
 
